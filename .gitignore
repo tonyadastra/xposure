@@ -1,0 +1,9 @@
+venv/
+__pycache__
+.env
+output_old/
+output-sc-ark/
+output-sc-ark-2/
+output/
+src/output-sc-ark.mp4
+src/video.mp4
